@@ -1,2 +1,2 @@
-# c-ProJect
-c#で実装したプログラム
+# ServerInspaction
+サーバー点検の色々なソースコード　汎用コード
